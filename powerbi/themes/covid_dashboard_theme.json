@@ -1,0 +1,49 @@
+{
+  "name": "COVID19 India Dashboard",
+  "dataColors": [
+    "#0B5ED7",
+    "#20C997",
+    "#DC3545",
+    "#6F42C1",
+    "#FD7E14",
+    "#17A2B8",
+    "#6C757D",
+    "#198754"
+  ],
+  "background": "#F6F8FC",
+  "foreground": "#07244F",
+  "tableAccent": "#0B5ED7",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 14,
+            "color": {
+              "solid": {
+                "color": "#07244F"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#07244F"
+              }
+            },
+            "fontSize": 11
+          }
+        ],
+        "background": [
+          {
+            "show": false
+          }
+        ]
+      }
+    }
+  }
+}
